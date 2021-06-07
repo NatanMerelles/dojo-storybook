@@ -13,6 +13,6 @@ export const Button = styled(ButtonBase)`
     color: #FFF;
 
     font-size: 14px;
-    font-weight: 500px;
+    font-weight: 600;
   }
 `;
